@@ -27,9 +27,10 @@ h1{
 
 .p2{
     position: absolute;
-    top:410px;
+    top:400px;
     right: 420px;
     color: rgb(34, 0, 128);
+    font-size: 1.5em;
 }
 
 .img1{
@@ -48,9 +49,9 @@ h1{
 
 .img3{
     position: absolute;
-    left: 400px;
-    top: 350px;
-    width: 150px;
+    left: 330px;
+    top: 345px;
+    width: 100px;
     height: 130px;
 }
 
